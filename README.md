@@ -1,2 +1,2 @@
 # Git-Practice-Ch2
-This repository is used to teach students command line git.
+This repository is used to teach students command line git with the following exercises. Page numbers reference the book Learn Version Control with Git by Tobias Günther. Project material is from <i>HTML5 and CSS5, 2nd Ed</i> by Sasha Vodnik and can be downloaded from the <a href="http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=9781305394049">Cengage Book Companion Site</a>.
