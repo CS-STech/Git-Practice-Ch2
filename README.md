@@ -3,10 +3,10 @@ This repository is used to teach students command line git with the following ex
 
 ### Exercise 2-1
 1. Create a folder called Git_Ch2 and navigate to the folder in Terminal.app.
-2. Run the "git clone" command on p 28 to copy the repository at https://github.com/CS-STech/Git-Practice-Ch2Links to an external site. to your Git_Ch2 folder.
+2. Run the "git clone" command on p 28 to copy the repository at https://github.com/CS-STech/Git-Practice-Ch2. to your Git_Ch2 folder.
 3. Navigate into the new folder created.
 4. Open index.html in a web browser. Notice that there are no stylization or photos on the webpage. We will be fixing that in this chapter's assignments.
-5. Download styles.cssPreview the document and move it into this project folder.
+5. Download styles.css. Preview the document and move it into this project folder.
 6. Reload index.html. Notice there is now stylization, but no photos. Before we commit our style sheet, we should add some images to check that the stylization is correct. Because we are not confident that our styles.css fixes our problem, we should stash it so we can commit some images.
 7. Use "git add" command to add the style sheet to the log.
 8. Use the "git stash" command to temporarily save the working directory. 
